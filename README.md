@@ -6,4 +6,4 @@ En un recipiente batir el queso untable con el edulcorante y la esencia de vaini
 Cubrir el budín con la mezcla de queso y espolvorear con las zanahorias ralladas.
 
 tu editor
-Ahora que tu identidad está configurada, puedes elegir el editor de texto por defecto que se ajustará cuando Git necesite que introduzcas un mensaje. Si no indica nada, Git usará el editor por defecto de su sistema, que generalmente es Vim. Si quieres usar otro editor de texto como Emacs, puedes hacer lo siguiente:
+Ahora que tu identidad está configurada, puedes elegir el editor de texto por defecto que se ajustará cuando Git necesite que introduzcas un mensaje. Si no indica nada, Git usará el editor por defecto de su sistema, que generalmente es Vim. Si quieres usar otro editor de texto como Emacs, puedes hacer lo siguiente:.......
